@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+div {
+  margin-top: 90px;
+  margin-left: 90px;
+  width: 600px;
+  height: 300px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 40px;
+}
+span {
+  font-size: 22pt;
+}
+
+input {
+  margin-left: 160px;
+  font-size: 16pt;
+}
+
+button {
+  font-size: 16pt;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
